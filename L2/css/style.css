@@ -1,0 +1,20 @@
+.my_header{
+          color: red;
+}
+
+#paragraph {
+          margin: 10px;
+}
+
+.parent{
+          background-color: green;
+}
+
+.parent__child{
+          background-color: red;
+          font-size: 32px;
+}
+
+.parent__child-first{
+          background-color: yellow;
+}
